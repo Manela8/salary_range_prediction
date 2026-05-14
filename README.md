@@ -181,6 +181,7 @@ Key libraries:
 
 ## 👤 Author
 
-**Project:** Salary Range Prediction  
+**Project:** Salary Range Prediction
+**Author:** Manela Nandi
 **Dataset:** NYC Open Data — Job Postings  
 **Tools:** Python · Jupyter · scikit-learn · XGBoost · LightGBM
