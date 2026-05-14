@@ -1,0 +1,31 @@
+# ============================================================
+#  Salary Range Prediction — NYC Job Postings
+#  Requirements File
+#  Install all dependencies with:
+#      pip install -r requirements.txt
+# ============================================================
+
+# ── Core Data Science ────────────────────────────────────────
+pandas==2.2.2
+numpy==1.26.4
+
+# ── Visualization ────────────────────────────────────────────
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# ── Machine Learning ─────────────────────────────────────────
+scikit-learn==1.4.2
+xgboost==2.0.3
+lightgbm==4.3.0
+
+# ── Model Persistence ────────────────────────────────────────
+joblib==1.4.0
+
+# ── Notebook Support ─────────────────────────────────────────
+jupyter==1.0.0
+nbconvert==7.16.3
+ipykernel==6.29.4
+
+# ── Utilities ────────────────────────────────────────────────
+pathlib2==2.3.7
+warnings; python_version < "3.2"
